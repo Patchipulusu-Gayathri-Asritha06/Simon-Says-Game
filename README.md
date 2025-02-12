@@ -1,7 +1,8 @@
 # Simon-Says-Game
 
-<b>Simon Says Game 🎮</b><br>
+<b>Simon Says Game 🎮</b><br><br>
 A simple Simon Says memory game built using HTML, CSS, and JavaScript. Test your memory skills by following the sequence of colors and see how far you can go! 🚀<br>
+<br>
 
 <b>🛠 Features</b><br>
 <ul>
@@ -11,7 +12,7 @@ A simple Simon Says memory game built using HTML, CSS, and JavaScript. Test your
   <li>✅ Keyboard and mouse interaction</li>
   <li>✅ Fun and engaging animations</li>
 </ul>
-
+<br>
 
 <b>📌 How to Play?</b><br>
 <ul>
@@ -21,7 +22,7 @@ A simple Simon Says memory game built using HTML, CSS, and JavaScript. Test your
  <li>4️⃣ If you get the sequence right, the game moves to the next level! 🎉</li>
  <li>5️⃣ If you make a mistake, the game ends, and you can restart by pressing any key.</li>
 </ul>
-
+<br>
 
 <b>🚀 Technologies Used</b><br>
 <ul>
@@ -29,13 +30,14 @@ A simple Simon Says memory game built using HTML, CSS, and JavaScript. Test your
  <li>CSS – For styling and animations</li>
  <li>JavaScript – For game logic and interactions</li>
 </ul>
+<br>
 
-
-<b>📂 File Structure</b><br>
+<b>📂 File Structure</b><br><br>
 📦 simon-says-game <br> 
  ┣ 📜 index.html       # Main HTML file <br> 
  ┣ 📜 style.css        # Styling and animations  <br>
  ┗ 📜 app.js          # Game logic  <br>
+<br>
 
 <b>📌 Future Enhancements</b><br>
 <ul>
